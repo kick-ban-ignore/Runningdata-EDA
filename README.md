@@ -8,6 +8,8 @@ I clean, manipulate and visualize the data set to get some insights and find out
 
 Packages used:
 Pandas for data manipulation
+
 ------------
+
 Matplotlib for plotting
 
